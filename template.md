@@ -1,15 +1,15 @@
-## Name of Project 
-* The name of your project  
+Deploy an internal container registry
+* install harbor on DigitalOcean with helm
  
 ## Link to Your Github or Gitlab Repo
-* Link to your code repository
+* https://github.com/swt02026/DOCN-K8S-Challenge-Harbor
 
 ## Link to Your Project Writeup
-* Link to your project writeup
+* https://hackmd.io/@5BbLM09OQz6FTdm0J9qZjQ/rJ3gK2oOF
 
 ## Contact Info
-* Your Name
-* Places people can contact you (twitter, email, your website, etc.)
+* swt02026
+* swt02026@gmail.com
 
 ## Misc 
-* Any other information you'd like to share regarding your project
+* It's my first using helm to deploy a project.
